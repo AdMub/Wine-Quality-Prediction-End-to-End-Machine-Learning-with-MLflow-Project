@@ -3,7 +3,6 @@ from src import logger
 from src.entity.config_entity import DataValidationConfig
 import pandas as pd
 
-
 class DataValiadtion:
     def __init__(self, config: DataValidationConfig):
         self.config = config
