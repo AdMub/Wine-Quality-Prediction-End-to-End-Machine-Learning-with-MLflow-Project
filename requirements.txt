@@ -3,7 +3,7 @@ pandas
 notebook
 scikit-learn 
 mlflow==2.2.2
-matplotlib
+# matplotlib
 python-box==6.0.2
 pyYAML
 tqdm
@@ -12,4 +12,5 @@ joblib
 types-PyYAML
 Flask
 Flask-Cors
--e .
+
+# -e .
