@@ -15,6 +15,7 @@ class ModelEvaluation:
     def __init__(self, config: ModelEvaluationConfig):
         self.config = config
 
+
     
     def eval_metrics(self,actual, pred):
         rmse = np.sqrt(mean_squared_error(actual, pred))
@@ -54,7 +55,7 @@ class ModelEvaluation:
             mlflow.log_metric("mae", mae)
 
 
-            # Model registry does not work with file store
+            # Model registry doesn't work with file store
             if tracking_url_type_store != "file":
 
                 # Register the model
