@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/Documents/Wine-Quality-Prediction-End-to-End-Machine-Learning-with-MLflow-Project/mlruns/0/cbeb53f38b974b06899a449e6412e661/artifacts
+end_time: 1756718054848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbeb53f38b974b06899a449e6412e661
+run_name: hilarious-swan-165
+run_uuid: cbeb53f38b974b06899a449e6412e661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756718034643
+status: 3
+tags: []
+user_id: USER

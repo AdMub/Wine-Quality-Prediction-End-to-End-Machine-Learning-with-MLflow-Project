@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/Documents/Wine-Quality-Prediction-End-to-End-Machine-Learning-with-MLflow-Project/mlruns/0/653820f2de0e4d8da461132d4c892063/artifacts
+end_time: 1756718036168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 653820f2de0e4d8da461132d4c892063
+run_name: agreeable-cow-699
+run_uuid: 653820f2de0e4d8da461132d4c892063
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756718012877
+status: 3
+tags: []
+user_id: USER

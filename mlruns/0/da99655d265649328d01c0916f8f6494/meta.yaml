@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/Documents/Wine-Quality-Prediction-End-to-End-Machine-Learning-with-MLflow-Project/mlruns/0/da99655d265649328d01c0916f8f6494/artifacts
+end_time: 1756718127413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da99655d265649328d01c0916f8f6494
+run_name: abrasive-donkey-411
+run_uuid: da99655d265649328d01c0916f8f6494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756718117908
+status: 3
+tags: []
+user_id: USER
