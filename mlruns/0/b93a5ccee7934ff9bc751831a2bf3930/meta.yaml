@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/Documents/Wine-Quality-Prediction-End-to-End-Machine-Learning-with-MLflow-Project/mlruns/0/b93a5ccee7934ff9bc751831a2bf3930/artifacts
+end_time: 1756710916474
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b93a5ccee7934ff9bc751831a2bf3930
+run_name: amazing-shrew-625
+run_uuid: b93a5ccee7934ff9bc751831a2bf3930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756710907759
+status: 3
+tags: []
+user_id: USER

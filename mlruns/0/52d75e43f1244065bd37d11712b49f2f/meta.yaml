@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/Documents/Wine-Quality-Prediction-End-to-End-Machine-Learning-with-MLflow-Project/mlruns/0/52d75e43f1244065bd37d11712b49f2f/artifacts
+end_time: 1756710839834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52d75e43f1244065bd37d11712b49f2f
+run_name: bold-robin-497
+run_uuid: 52d75e43f1244065bd37d11712b49f2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756710829168
+status: 3
+tags: []
+user_id: USER
