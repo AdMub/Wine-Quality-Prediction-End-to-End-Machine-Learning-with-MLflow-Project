@@ -104,6 +104,10 @@ AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 ECR_REPOSITORY_NAME = simple-app
 
 
+7. After CICD go back to instance ID, to create port number >> ID >> Security >> Security >> Edit inbound rules >> 
+Add rules >> custom TCP >> Port range (8080) >> 0.0.0.0/0
+EC2 instance >> Public IPv4 address copied >> 13.221.118.81 >> add port number >> 13.221.118.81:8080
+
 About MLflow
 MLflow
 
